@@ -1,0 +1,17 @@
+1552234240765	Copy compilation units
+1552234309209	Rename type 'ComponentDao2'
+1552234585070	Rename type 'JdbcConnection'
+1552234748516	Copy compilation unit
+1552234803389	Rename type 'PersonDao'
+1552234886389	Rename local variable 'personDao'
+1552235930851	Rename type 'ComponentDao'
+1552235977866	Rename type 'ComponentJdbcConnection'
+1552355407306	Copy compilation unit
+1552430466951	Copy compilation unit
+1552430823195	Rename type 'PersonDao'
+1552430831182	Rename local variable 'personDao'
+1552431103960	Rename type 'SomeCdiBusiness'
+1552610619816	Copy compilation units
+1552610963371	Rename field 'jdbcConnection'
+1552613665666	Copy compilation unit
+1552702085490	Copy compilation unit

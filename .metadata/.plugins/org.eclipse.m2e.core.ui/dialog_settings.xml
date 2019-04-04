@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.RELEASE/soap-course-management"/>
+			<item value="/Users/marthachapman/git/repository/spring-in-5-steps"/>
+			<item value="/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.RELEASE/mockito-demo"/>
+			<item value="/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.RELEASE/spring-in-5-steps"/>
+			<item value="/Users/marthachapman/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/spring-in-5-steps"/>
+			<item value="/Users/marthachapman/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/spring-in-5-steps-master/spring-in-5-steps"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
