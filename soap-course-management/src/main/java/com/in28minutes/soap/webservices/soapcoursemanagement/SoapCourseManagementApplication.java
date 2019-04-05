@@ -12,7 +12,3 @@ public class SoapCourseManagementApplication {
 }
 
 //comment
-//comment
-//comment
-//comment
-//comment
