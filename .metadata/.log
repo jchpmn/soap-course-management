@@ -11450,3 +11450,15 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 19:42:02.477
 !MESSAGE executing callback sts4.classpath.vpucrYmu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 20:52:04.686
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vpucrYmu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 20:52:04.698
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vpucrYmu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 20:52:04.701
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-04 20:52:04.702
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vpucrYmu => OK
