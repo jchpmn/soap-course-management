@@ -11747,3 +11747,114 @@ org.eclipse.jface.text.BadLocationException
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 19:36:59.011
 !MESSAGE executing callback sts4.classpath.zyHfALbG SUCCESS [done]
 >>>>>>> dev
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 19:59:55.475
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zyHfALbG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 19:59:55.490
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zyHfALbG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 19:59:55.491
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 19:59:55.492
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zyHfALbG => OK
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-04-05 20:00:02.624
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.702
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DjJZNGeB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.703
+!MESSAGE subscribing to classpath changes: sts4.classpath.DjJZNGeB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.704
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.704
+!MESSAGE subsribers = [sts4.classpath.DjJZNGeB]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.705
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.708
+!MESSAGE project soap-course-management ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.710
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.710
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DjJZNGeB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.711
+!MESSAGE Preparing classpath changed notification soap-course-management
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.711
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.716
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.717
+!MESSAGE executing callback sts4.classpath.DjJZNGeB soap-course-management false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-05 20:00:05.796
+!MESSAGE executing callback sts4.classpath.DjJZNGeB SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-04-05 20:00:17.815
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.core.resources 4 0 2019-04-05 20:03:36.993
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1618)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1599)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1271)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1240)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-04-05 20:03:37.004
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 2, new: 1). Location: /Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.RELEASE/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1600)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1271)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1240)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

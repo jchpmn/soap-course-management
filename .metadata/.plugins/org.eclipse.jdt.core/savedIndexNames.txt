@@ -1,37 +1,4 @@
 INDEX VERSION 1.131+/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.RELEASE/.metadata/.plugins/org.eclipse.jdt.core
-<<<<<<< HEAD
-3158197321.index
-124275899.index
-3484117950.index
-3334288320.index
-1999298954.index
-3720681883.index
-680827947.index
-1271342938.index
-2255771374.index
-1302770079.index
-2762063732.index
-2132672051.index
-2084021475.index
-1888666045.index
-3697974947.index
-1499520195.index
-||||||| merged common ancestors
-3484117950.index
-3720681883.index
-2762063732.index
-2132672051.index
-1888666045.index
-2084021475.index
-3697974947.index
-124275899.index
-1999298954.index
-2255771374.index
-680827947.index
-1499520195.index
-3334288320.index
-3158197321.index
-=======
 3783920055.index
 412459712.index
 2720490022.index
@@ -45,12 +12,7 @@ INDEX VERSION 1.131+/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.REL
 3067866756.index
 4207149136.index
 3638666129.index
->>>>>>> dev
 3927758025.index
-<<<<<<< HEAD
-||||||| merged common ancestors
-1302770079.index
-=======
 2200041939.index
 1296017453.index
 2084021475.index
@@ -96,12 +58,7 @@ INDEX VERSION 1.131+/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.REL
 1351700514.index
 4242453506.index
 4240262085.index
->>>>>>> dev
 1416793072.index
-<<<<<<< HEAD
-||||||| merged common ancestors
-1271342938.index
-=======
 4162420612.index
 4126778836.index
 799416905.index
@@ -147,4 +104,3 @@ INDEX VERSION 1.131+/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.REL
 878269165.index
 897635034.index
 2384474203.index
->>>>>>> dev
