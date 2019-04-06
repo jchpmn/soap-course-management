@@ -11,15 +11,5 @@ public class SoapCourseManagementApplication {
 	}
 }
 
-<<<<<<< HEAD
-//comment
-//
-
-//
-
-//
-||||||| merged common ancestors
-//comment
-=======
 ///////////////////////////////
->>>>>>> dev
+
