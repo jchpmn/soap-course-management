@@ -36,4 +36,9 @@
 <fullyQualifiedTypeName name="org.mockito.junit.MockitoJUnitRunner"/>
 <fullyQualifiedTypeName name="org.mockito.Mock"/>
 <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.Endpoint"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.PayloadRoot"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.RequestPayload"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.ResponsePayload"/>
+<fullyQualifiedTypeName name="com.in28minutes.courses.CourseDetails"/>
 </qualifiedTypeNameHistroy>
