@@ -10,6 +10,3 @@ public class SoapCourseManagementApplication {
 		SpringApplication.run(SoapCourseManagementApplication.class, args);
 	}
 }
-
-///////////////////////////////
-
