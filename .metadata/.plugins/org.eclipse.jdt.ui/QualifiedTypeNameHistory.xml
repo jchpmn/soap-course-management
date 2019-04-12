@@ -41,4 +41,8 @@
 <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.RequestPayload"/>
 <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.ResponsePayload"/>
 <fullyQualifiedTypeName name="com.in28minutes.courses.CourseDetails"/>
+<fullyQualifiedTypeName name="org.springframework.xml.xsd.XsdSchema"/>
+<fullyQualifiedTypeName name="org.springframework.xml.xsd.SimpleXsdSchema"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition"/>
 </qualifiedTypeNameHistroy>
