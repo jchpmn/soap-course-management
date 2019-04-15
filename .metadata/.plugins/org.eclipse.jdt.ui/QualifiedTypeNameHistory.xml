@@ -45,8 +45,10 @@
 <fullyQualifiedTypeName name="org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="com.in28minutes.soap.webservices.soapcoursemanagement.soap.bean.Course"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.in28minutes.courses.GetAllCourseDetailsRequest"/>
+<fullyQualifiedTypeName name="com.in28minutes.courses.GetAllCourseDetailsResponse"/>
 </qualifiedTypeNameHistroy>

@@ -76,7 +76,6 @@ INDEX VERSION 1.131+/Users/marthachapman/workspace-spring-tool-suite-4-4.1.2.REL
 2288839155.index
 3918422907.index
 3405272958.index
-3697974947.index
 3222474834.index
 3870508966.index
 497108954.index
